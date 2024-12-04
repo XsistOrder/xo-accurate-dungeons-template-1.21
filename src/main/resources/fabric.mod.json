@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "xo-accurate-dungeons",
+	"version": "${version}",
+	"name": "XO Accurate Dungeons",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/xo-accurate-dungeons/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.xo.xoaccuratedungeons.XOAccurateDungeons"
+		],
+		"fabric-datagen": [
+			"net.xo.xoaccuratedungeons.XOAccurateDungeonsDataGenerator"
+		],
+		"client": [
+			"net.xo.xoaccuratedungeons.XOAccurateDungeonsClient"
+		]
+	},
+	"mixins": [
+		"xo-accurate-dungeons.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
