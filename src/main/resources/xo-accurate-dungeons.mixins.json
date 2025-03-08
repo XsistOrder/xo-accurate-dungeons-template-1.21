@@ -3,7 +3,11 @@
 	"package": "net.xo.xoaccuratedungeons.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"EndermanMixin",
+		"MobEntityAccessor",
+		"SpawnRestrictionMixin",
+		"TrunkPlacerTypeInvoker"
 	],
 	"injectors": {
 		"defaultRequire": 1

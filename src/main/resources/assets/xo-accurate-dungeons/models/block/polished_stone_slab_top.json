@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "xo-accurate-dungeons:block/polished_stone",
+    "side": "xo-accurate-dungeons:block/polished_stone",
+    "top": "xo-accurate-dungeons:block/polished_stone"
+  }
+}

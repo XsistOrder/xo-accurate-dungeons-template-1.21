@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "xo-accurate-dungeons:block/inverted_sapling"
+  },
+  "render_type": "cutout"
+}

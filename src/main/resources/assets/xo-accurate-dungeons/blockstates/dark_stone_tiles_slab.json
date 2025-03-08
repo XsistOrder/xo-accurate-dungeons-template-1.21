@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xo-accurate-dungeons:block/dark_stone_tiles_slab"
+    },
+    "type=double": {
+      "model": "xo-accurate-dungeons:block/dark_stone_tiles"
+    },
+    "type=top": {
+      "model": "xo-accurate-dungeons:block/dark_stone_tiles_slab_top"
+    }
+  }
+}

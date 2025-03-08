@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "xo-accurate-dungeons:block/greenstone_tiles"
+    "all": "xo-accurate-dungeons:block/endrock_tiles"
   }
 }

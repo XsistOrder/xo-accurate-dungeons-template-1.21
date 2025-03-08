@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "xo-accurate-dungeons:block/endstone_pillar_top",
+    "side": "xo-accurate-dungeons:block/endstone_pillar_side"
+  }
+}

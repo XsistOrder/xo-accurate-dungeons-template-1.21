@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "xo-accurate-dungeons:block/polished_stone_slab"
+    },
+    "type=double": {
+      "model": "xo-accurate-dungeons:block/polished_stone"
+    },
+    "type=top": {
+      "model": "xo-accurate-dungeons:block/polished_stone_slab_top"
+    }
+  }
+}

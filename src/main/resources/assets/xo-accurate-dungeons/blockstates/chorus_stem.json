@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "xo-accurate-dungeons:block/chorus_stem",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "xo-accurate-dungeons:block/chorus_stem"
+    },
+    "axis=z": {
+      "model": "xo-accurate-dungeons:block/chorus_stem",
+      "x": 90
+    }
+  }
+}
