@@ -2,10 +2,44 @@
   "item.xo-accurate-dungeons.lichen_goo": "Lichen Goo",
 
   "block.xo-accurate-dungeons.endstone_tiles": "Endstone Tiles",
+  "block.xo-accurate-dungeons.endstone_pillar": "Endstone Pillar",
+  "block.xo-accurate-dungeons.chiseled_endstone": "Chiseled Endstone",
+  "block.xo-accurate-dungeons.chiseled_endstone_bricks": "Chiseled Endstone Bricks",
 
-  "block.xo-accurate-dungeons.greenstone_tiles": "Greenstone Tiles",
+  "block.xo-accurate-dungeons.end_rod_block": "End Rod Block",
+  "block.xo-accurate-dungeons.end_rod_pillar": "End Rod Pillar",
 
-  "block.xo-accurate-dungeons.chiseled_purpur_basalt": "Chiseled Purpur basalt"
+  "block.xo-accurate-dungeons.purpur_half_tiles": "Purpur Half Tiles",
+  "block.xo-accurate-dungeons.purpur_checkered_tiles": "Purpur Checkered Tiles",
+  "block.xo-accurate-dungeons.purpur_half_checkered_tiles": "Purpur Half Checkered Tiles",
 
+  "block.xo-accurate-dungeons.howlite": "Howlite",
 
+  "block.xo-accurate-dungeons.chorus_dirt": "Chorus Dirt",
+
+  "block.xo-accurate-dungeons.chorus_stem": "Chorus Stem",
+  "block.xo-accurate-dungeons.inverted_leaves": "Inverted Leaves",
+  "block.xo-accurate-dungeons.inverted_sapling": "Inverted Sapling",
+
+  "block.xo-accurate-dungeons.endrock": "Endrock",
+  "block.xo-accurate-dungeons.endrock_half_tiles": "Endrock Half Tiles",
+  "block.xo-accurate-dungeons.endrock_tiles": "Endrock Tiles",
+  "block.xo-accurate-dungeons.endrock_checkered_tiles": "Endrock Checkered Tiles",
+  "block.xo-accurate-dungeons.endrock_half_checkered_tiles": "Endrock Half Checkered Tiles",
+  "block.xo-accurate-dungeons.endrock_pillar": "Endrock Pillar",
+
+  "block.xo-accurate-dungeons.chiseled_purpur_basalt": "Chiseled Purpur basalt",
+
+  "block.xo-accurate-dungeons.stone_pillar": "Stone Pillar",
+  "block.xo-accurate-dungeons.stone_tiles": "Stone Tiles",
+  "block.xo-accurate-dungeons.polished_stone": "Polished Stone",
+  "block.xo-accurate-dungeons.polished_stone_stairs": "Polished Stone Stairs",
+  "block.xo-accurate-dungeons.polished_stone_slab": "Polished Stone Slab",
+
+  "block.xo-accurate-dungeons.dark_stone_pillar": "Dark Stone Pillar",
+  "block.xo-accurate-dungeons.dark_stone_tiles": "Dark Stone Tiles",
+  "block.xo-accurate-dungeons.dark_stone_tiles_slab": "Dark Stone Tiles Slab",
+  "block.xo-accurate-dungeons.chiseled_dark_stone": "Chiseled Dark Stone",
+
+  "block.xo-accurate-dungeons.cage_block": "Cage Block"
 }
